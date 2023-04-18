@@ -1,0 +1,20 @@
+O GitHub é uma plataforma web que fornece hospedagem para repositórios Git, permitindo que desenvolvedores compartilhem e colaborem em projetos de software.
+Ele é amplamente utilizado por desenvolvedores de todo o mundo para gerenciar projetos de código aberto e privados.Alguns dos principais recursos do GitHub
+incluem:
+
+Repositórios de código-fonte: Os desenvolvedores podem armazenar o código-fonte de seus projetos em repositórios Git hospedados no GitHub.
+Colaboração: Os desenvolvedores podem trabalhar em equipe em um projeto, criando ramificações, fazendo pull requests, revisando código e mesclando alterações.
+Rastreamento de problemas: Os desenvolvedores podem usar o sistema de rastreamento de problemas do GitHub para monitorar e resolver problemas em seus projetos.
+Integração contínua: O GitHub permite que os desenvolvedores configurem integração contínua para seus projetos, garantindo que o código seja testado e implantado
+automaticamente quando as alterações são feitas.
+
+Alguns dos principais comandos do Git usados no GitHub incluem:
+
+git clone: Copia um repositório Git existente do GitHub para sua máquina local.
+git add: Adiciona arquivos ao índice do Git, preparando-os para o commit.
+git commit: Grava as alterações no repositório Git.
+git push: Envia as alterações no repositório Git para o repositório remoto no GitHub.
+git pull: Obtém as atualizações mais recentes do repositório remoto do GitHub e as mescla em seu repositório local.
+git branch: Cria, renomeia ou exclui ramificações no repositório Git.
+git merge: Mescla as alterações de uma ramificação em outra.
+git pull request: Solicita que as alterações em uma ramificação sejam mescladas na ramificação principal do projeto.
